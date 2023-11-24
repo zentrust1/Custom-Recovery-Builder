@@ -23,7 +23,6 @@ on:
         description: 'Specify your Device Codename' # As is, just like your PRODUCT_DEVICE in your device tree.
         required: true
         default: 'Nova'
-      default: 'Nova'
      MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
